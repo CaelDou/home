@@ -13,6 +13,9 @@ img {
 
 h1 {
     color: #ECEFF4;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 p {
