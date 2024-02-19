@@ -1,12 +1,12 @@
 body {
-    background-color: red;
+    background-color: #2E3440;
     font-family: Arial, sans-serif;
 }
 
 h1 {
-    color: navy;
+    color: #ECEFF4;
 }
 
 p {
-    color: gray;
+    color: #ECEFF4;
 }
