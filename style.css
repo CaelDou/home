@@ -3,6 +3,14 @@ body {
     font-family: Arial, sans-serif;
 }
 
+p {
+  text-align: center;
+}
+
+a {
+  text-align: center;
+}
+
 img {
   display: block;
   margin-left: auto;
