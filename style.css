@@ -15,6 +15,7 @@ a {
 a:link {
   color: green;
   background-color: transparent;
+  text-align: center;
   text-decoration: none;
 }
 
